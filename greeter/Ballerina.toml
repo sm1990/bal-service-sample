@@ -1,4 +1,4 @@
-[package]
+[packag
 org = "sarani"
 name = "greeter"
 version = "0.1.0"
